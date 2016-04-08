@@ -1,11 +1,14 @@
-## Super simple example for ussing the GitHub APIs to get data about repositories and GitHub users
+## This is a super simple example for ussing the GitHub APIs to get data about GitHub repositories and users
 Code written by Bence Kollanyi @kollanyi 
 
 ## Intro
 This is just a simple readme file for the GitHub API data extractor I wrote as an example for working with the GitHub APIs. 
 
 ## Before you run the code
-Please add your own Token to the code files before you run them. The easiest way to get a personal access token is to head to the following URL: https://github.com/settings/tokens/new 
+Please add your own Token to the code files before you run them. The easiest way to get a personal access token is to go to the following URL and create a token: 
+https://github.com/settings/tokens/new 
+
+The token authenticate you when you use the API. Without authentication your search is limited by a strict API limit. 
 
 ## Environment 
 I wrote the code in Python 3.5.1. Use Python 3+ or edit the code to run it in older Python versions. 
