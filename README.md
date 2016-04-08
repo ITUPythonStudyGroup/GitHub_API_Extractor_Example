@@ -1,8 +1,6 @@
-## This is a super simple example for ussing the GitHub APIs to get data about GitHub repositories and users
+## GitHub API data extractor 
+Use this code to access the GitHub APIs to get data about GitHub repositories and users.
 Code written by Bence Kollanyi @kollanyi 
-
-## Intro
-This is just a simple readme file for the GitHub API data extractor I wrote as an example for working with the GitHub APIs. 
 
 ## Before you run the code
 Please add your own Token to the code files before you run them. The easiest way to get a personal access token is to go to the following URL and create a token: 
