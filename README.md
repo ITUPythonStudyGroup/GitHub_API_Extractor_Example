@@ -1,5 +1,6 @@
 ## GitHub API data extractor 
 Use this code to access the GitHub APIs to get data about GitHub repositories and users.
+
 Code written by Bence Kollanyi @kollanyi 
 
 ## Before you run the code
